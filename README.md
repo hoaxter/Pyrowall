@@ -1,4 +1,4 @@
-### PyFirewall
+### Pyrowall
 
 #### A simple firewall with cross platform support. with Interactive TUI
 
