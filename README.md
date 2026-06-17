@@ -2,7 +2,7 @@
 
 #### A simple firewall with cross platform support. with Interactive TUI
 
-![UI Screenshot](assets/image.png)
+![UI Screenshot](Screenshot 2026-06-17 151330.png)
 
 #### Features:
 - Block IPs
