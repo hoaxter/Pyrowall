@@ -36,8 +36,3 @@ pip install -e .
 ```bash
 python3 main.py
 ``` 
-
-
-#### Credits
-
-Made with ❤️ by [Zaeem20](https;//github.com/Zaeem20)
